@@ -25,11 +25,11 @@ public class CollectionGetterSetterOwnFinalCorrect {
 
 		System.out.println("Titles 1: " + titles);
 
-		titles.get(2).setName("Maryland");  
+//		titles.get(2).setName("Maryland");  
 
 		System.out.println("Titles 2: " + app.getListPeople());
 
-		titles.get(0).setName("Peter Crouch"); 
+//		titles.get(0).setName("Peter Crouch"); 
 
 		System.out.println("Titles 3: " + app.getListPeople());
 
